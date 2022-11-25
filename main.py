@@ -8,7 +8,7 @@ dictionary= note.Note("asdasd","label","vssvs")
 #File process model
 Inote = fp.Note()
 
-https://github.com/developoohs/noterm
+
 
 
 Inote.create_file("note")
